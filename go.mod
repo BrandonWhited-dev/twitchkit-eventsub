@@ -1,4 +1,4 @@
-module brandonwhited-dev.com/twitchkit-eventsub
+module github.com/brandonwhited-dev.com/twitchkit-eventsub
 
 go 1.25.5
 
